@@ -1,2 +1,2 @@
 # token-wiewer
-just for me never mind
+simple script to get your token
